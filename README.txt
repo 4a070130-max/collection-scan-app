@@ -1,14 +1,2 @@
-收藏掃描 — iPhone PWA 測試版
-
-部署 GitHub Pages：
-1. 建立新的 GitHub repository（例如 collection-scan）。
-2. 上傳本 ZIP 解壓縮後的四個檔案至 repository 根目錄：index.html、manifest.webmanifest、sw.js、icon.svg。
-3. 在 Settings > Pages，Source 選 Deploy from a branch，Branch 選 main、/(root)，儲存。
-4. 等待部署完成，使用 GitHub Pages 提供的 https 網址，在 iPhone Safari 開啟。
-5. Safari 分享 > 加入主畫面。
-
-注意：
-- 這是測試版，照片只存於此網站在此裝置的瀏覽器資料庫，並未上傳 GitHub。
-- 清除網站資料或移除 App 可能造成照片遺失，請定期使用設定中的匯出備份。
-- 首次開啟需網路，後續離線支援須實機測試。
-- 相似搜尋是輕量特徵比對，可能漏判或誤判，請自行人工確認。
+收藏掃描 V4：首頁重新排版，移除獨立標題列，將動物插畫融入柔和背景，縮小按鈕與間距。其餘資料庫與掃描功能沿用 V3。
+更新：將所有檔案上傳至原 GitHub 儲存庫根目錄，覆蓋同名檔案。請勿清除網站資料，以免遺失未備份的收藏。
